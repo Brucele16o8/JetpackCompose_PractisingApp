@@ -1,9 +1,9 @@
 name: AndroidBuild
 on:
   pull_request:
-    branches = [main]
+    branches: [main]
   push:
-    branches = [main]
+    branches: [main]
 
 jobs:
   build:
@@ -14,6 +14,9 @@ jobs:
 
       - name: Setup Java JDK
         uses: actions/setup-java@v3.14.1
+        with:
+          distribution: adopt
+          java-version: '17'
 
       - name: Build with Gradle
         run: ./gradle build
