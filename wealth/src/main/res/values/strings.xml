@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wealth">Wealth</string>
+    <string name="coin_details">Coin Detail</string>
+</resources>

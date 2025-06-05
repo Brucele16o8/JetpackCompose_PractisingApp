@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_address_hint">Please select your city</string>
+    <string name="auto_detect_my_location">Auto detect my location</string>
+    <string name="popular_cities">POPULAR CITIES</string>
+    <string name="melbourne">Melbourne</string>
+    <string name="sydney">Sydney</string>
+    <string name="adelaide">Adelaide</string>
+    <string name="brisbane">Brisbane</string>
+    <string name="perth">Perth</string>
+    <string name="hobart">Hobart</string>
+    <string name="weather_details">Weather</string>
+    <string name="weather_current_status_image">Weather current status image</string>
+    <string name="air_details">Air Details</string>
+    <string name="average_humidity">Average Humidity</string>
+</resources>
